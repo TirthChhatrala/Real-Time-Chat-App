@@ -59,8 +59,8 @@ npm -v
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/TirthChhatrala/Real-Time-Chat-Application.git
-cd Real-Time-Chat-Application
+git clone https://github.com/TirthChhatrala/Real-Time-Chat-App.git
+cd Real-Time-Chat-App
 ```
 
 ---
