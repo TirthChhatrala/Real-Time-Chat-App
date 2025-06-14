@@ -1,7 +1,7 @@
 # 💬 Advanced Real-Time Chat Application
 
 A full-stack real-time chat application built using **React**, **Socket.IO**, and **Node.js**, with a dual WhatsApp-style user interface for two users chatting in real time.
-
+ 
 ---
 
 ## 🔥 Features
